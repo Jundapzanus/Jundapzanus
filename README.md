@@ -5,6 +5,6 @@
 - 📫 How to reach me ...(--)
 
 <!---
-Jundapzanus/Jundapzanus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner and learner, new to GitHub and so many wacky terms of programming worlds. Some fancy names in this new habitat I'm in also too hipsters for me to indulge though...
 You can click the Preview link to take a look at your changes.
 --->
